@@ -7,7 +7,7 @@ a{
     text-decoration: none;
 }
 .header{
-    background: url("huluwebsite/header.jpg") no-repeat center center/cover;
+    background: url("header.jpg") no-repeat center center/cover;
     height: 850px;
 }
 .navbar>ul>li{
