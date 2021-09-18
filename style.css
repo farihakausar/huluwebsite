@@ -385,7 +385,7 @@ ul>li{
         height: 500px;
         /* margin-top: 200px; */
       }
-      @media (max-width:400px) {
+      @media (max-width:450px) {
         .section-4{
           margin-top: 1700px;
         }
